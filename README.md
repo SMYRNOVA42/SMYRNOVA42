@@ -1,4 +1,4 @@
-# Hi everyone! 🙌 I'm Junior QA/QC Engineer 🖥️
+# Hi everyone! 🙌 I'm AQA Engineer 🖥️
 
 ## About me
 <span style="display: inline-block;"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTM2ZmM1ZmU2NDYxNzMyOTcwZjJkZTI1MDQ0MzBkOTgzYmJkM2ZmMyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/fSGrpj2wJynDwgftc7/giphy.gif" width="37px"> </span> <span style="display: inline-block; margin-left: 15px; font-size: 24px;"> I'm currently looking for a job </span>
