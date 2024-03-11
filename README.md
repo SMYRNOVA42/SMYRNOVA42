@@ -12,9 +12,10 @@
 |STLC, SDLC|Basic knowledge about REST, SOAP, GraphQL|
 |Test docs: test cases, checklists, test report|API testing|
 |Test design techniques|Web, Mobile testing|
-|Model OSI, HTTP|Basic Java|
-|JIRA, bug-reports|Basic automation: Selenium/JUnit/Maven|
-|Testing principles|VCS: Github|
+|Model OSI, HTTP|Basic Python|
+|Pytest, UnitTest|PageObject|
+|JIRA, bug-reports|Basic automation: Selenium/JUnit|
+|Testing principles|Github|
 |Tools: ChromeDevTools, Charles, Postman, JMeter, AndroidStudio|Databases: DML queries|
 |Basic HTML, CSS, XPath locators|Operating systems: Windows, Linux, Command line|
 
