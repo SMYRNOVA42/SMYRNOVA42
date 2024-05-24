@@ -1,9 +1,8 @@
-# Hi everyone! 🙌 I'm AQA Engineer 🖥️
+# Hi everyone! I'm Tori - AQA Engineer <img src="https://em-content.zobj.net/source/telegram/386/woman-technologist_1f469-200d-1f4bb.webp" alt="woman-technologist" width="40" height="40" />
 
 ## About me
-<span style="display: inline-block;"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTM2ZmM1ZmU2NDYxNzMyOTcwZjJkZTI1MDQ0MzBkOTgzYmJkM2ZmMyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/fSGrpj2wJynDwgftc7/giphy.gif" width="37px"> </span> <span style="display: inline-block; margin-left: 15px; font-size: 24px;"> I'm currently work in OX Company </span>
-<p><span style="display: inline-block;"><img src="https://media0.giphy.com/media/fikiml0dKfRQ2ZS08E/giphy.gif?cid=ecf05e476njeee3vjo0rmcsew6sqkyny9mku7x8ix0qgjetp&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="37px"> </span> <span style="display: inline-block; margin-left: 15px; font-size: 24px;"> I love earning my own brains </span>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B18AF7&vCenter=true&random=false&width=600&lines=I+currently+work+at+OX+Company;I+love+earning+by+my+own+brains;I'm+from+Ukraine%2C+Kharkiv;Now+reside+in+Lviv;I+use+Python+for+my+projects)](https://git.io/typing-svg)
+
 <p><span style="display: inline-block;"><img src="https://media4.giphy.com/media/ihZH2vOfn02gs9i1U9/giphy.gif?cid=ecf05e47ojp9zqabf5dcmipjd8p1u1dawfdzwmbtuw0qm8xa&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="37px"> </span> <span style="display: inline-block; margin-left: 15px; font-size: 24px;"> My skills: </span>
 </p>
 
@@ -19,8 +18,10 @@
 |Tools: ChromeDevTools, Charles, Postman, JMeter, AndroidStudio|Databases: DML queries|
 |Basic HTML, CSS, XPath locators|Operating systems: Windows, Linux, Command line|
 
-<p><span style="display: inline-block;"><img src="https://media4.giphy.com/media/yDM1kJZthxFPoGDdmq/giphy.gif?cid=ecf05e479cwr0c8031pqmr2j9akfbcmq51pcwudik8cdfpr7&ep=v1_stickers_search&rid=giphy.gif&ct=ts" width="30px"> </span> <span style="display: inline-block; margin-left: 15px; font-size: 24px;"> Ask me anything at linkedin: https://www.linkedin.com/in/smirnova42/ </span>
-</p>
+
+### <img src="https://em-content.zobj.net/source/telegram/386/mobile-phone-with-arrow_1f4f2.webp" alt="mobile-phone" width="25" height="25" /> Hit me up!
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=A020F0&color:FFF)](mailto:smirnova_42@icloud.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=A020F0&color:FFF)](https://www.linkedin.com/in/smirnova42/)
 
 
 
