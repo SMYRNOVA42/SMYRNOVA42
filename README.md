@@ -16,7 +16,7 @@
 | `🦾` | Python |
 | `🦾` | Automation QA |
 | `🦾` | Pytest |
-| `🦾` | Playwrite |
+| `🦾` | Playwright |
 | `🦾` | Locust |
 | `🦾` | Unittest |
 | `🦾` | Selenium |
